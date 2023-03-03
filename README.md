@@ -10,5 +10,5 @@ Proyecto que integra tecnologia web para la administracion de sitios web respons
 #### Programado por:
 Andrés Rúa
 
-En iun navegador, ejecutar
+En un navegador, ejecutar
 `localhost:5500/index.html`
